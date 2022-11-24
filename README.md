@@ -26,7 +26,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/tanya-lyubimaya/probable-telegram/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
